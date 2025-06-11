@@ -2,6 +2,7 @@
 Finding Answers to Questions: Bridging between Type-based and Computational Neuroscience Approaches
 
 # Usage
+Should work with Python 3.6 or above (implemented using Python 3.12).
 
 1. Set up a virtual environment for Nengo and the other required libraries, called nengovenv (choose another name if you like):
 
