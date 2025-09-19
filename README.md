@@ -41,6 +41,8 @@ juypter notebook
 
 6. Select the Python notebook ("qa_spa-ttr_ft_typecheck.ipynb"). Select "nengoenv" as kernel, if not already set as kernel, and go ahead!
 
+7. When finished, shut down the server and deactivate the virtual environment.
+
 # Reference
 
 ```bibtex
@@ -56,6 +58,3 @@ juypter notebook
   year =	 2025,
 }
 ```
-
-8. When finished, shut down the server and deactivate the virtual environment.
-
