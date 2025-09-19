@@ -1,4 +1,4 @@
-[![Paper](http://img.shields.io/badge/paper-IWCS-B31B1B.svg)](https://preview.aclanthology.org/iwcs-25-ingestion/2025.iwcs-1.12.pdf)
+[![Paper](http://img.shields.io/badge/paper-PDF-B31B1B.svg)](https://preview.aclanthology.org/iwcs-25-ingestion/2025.iwcs-1.12.pdf)
 [![Conference](http://img.shields.io/badge/conference-IWCS--2025-4b44ce.svg)](https://iwcs2025.github.io/)
 [![version](https://img.shields.io/github/license/aluecking/QA-SPA-TTR)]()
 
@@ -41,5 +41,21 @@ juypter notebook
 
 6. Select the Python notebook ("qa_spa-ttr_ft_typecheck.ipynb"). Select "nengoenv" as kernel, if not already set as kernel, and go ahead!
 
-7. When finished, shut down the server and deactivate the virtual environment.
+# Reference
+
+```bibtex
+@InProceedings{Larsson:et:al:2025-spa-qna,
+  title =	 {Finding Answers to Questions: {Bridging} between
+                  Type-based and Computational Neuroscience
+                  Approaches},
+  author =	 {Larsson, Staffan and Ginzburg, Jonathan and Cooper,
+                  Robin and Lücking, Andy},
+  booktitle =	 {16th International Conference on Computational
+                  Semantics},
+  series =	 {IWCS},
+  year =	 2025,
+}
+```
+
+8. When finished, shut down the server and deactivate the virtual environment.
 
