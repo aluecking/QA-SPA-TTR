@@ -1,3 +1,7 @@
+[![Paper](http://img.shields.io/badge/paper-IWCS-B31B1B.svg)](https://preview.aclanthology.org/iwcs-25-ingestion/2025.iwcs-1.12.pdf)
+[![Conference](http://img.shields.io/badge/conference-IWCS--2025-4b44ce.svg)](https://iwcs2025.github.io/)
+[![version](https://img.shields.io/github/license/aluecking/QA-SPA-TTR)]()
+
 # QA-SPA-TTR
 Finding Answers to Questions: Bridging between Type-based and Computational Neuroscience Approaches
 
