@@ -52,8 +52,15 @@ juypter notebook
                   Approaches},
   author =	 {Larsson, Staffan and Ginzburg, Jonathan and Cooper,
                   Robin and Lücking, Andy},
-  booktitle =	 {16th International Conference on Computational
-                  Semantics},
+  booktitle =	 {Proceedings of the 16th International Conference on
+                  Computational Semantics},
+  editor =	 {Evang, Kilian and Kallmeyer, Laura and Pogodalla,
+                  Sylvain},
+  location =	 {Düsseldorf, Germany},
+  publisher =	 {Association for Computational Linguistics},
+  url =
+                  {https://preview.aclanthology.org/iwcs-25-ingestion/2025.iwcs-1.12/},
+  pages =	 {128--136},
   series =	 {IWCS},
   year =	 2025,
 }
